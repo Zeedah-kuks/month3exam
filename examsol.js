@@ -55,3 +55,12 @@ function temperatureStatus(temp) {
         console.log("Warm");
     }
 }
+
+//exampleto test code
+checkGrade(85); 
+checkGrade(36);
+login("admin", "1234");
+temperatureStatus(-2);
+convertToFahrenheit(20);
+canVote(20);
+canVote(16);
